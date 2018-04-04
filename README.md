@@ -1,7 +1,7 @@
 # ScriptCha Documentation
 
-**Server Requirements  
-**To run ScriptCha of your server, there is no special configuration however there something on the server level that needs to be taken care of in order for the framework to work flawlessly.
+Server Requirements  
+To run ScriptCha of your server, there is no special configuration however there something on the server level that needs to be taken care of in order for the framework to work flawlessly.
 
 • PHP 5.3 or greater  
 • MySQL 5.6 or greater OR MariaDB 10.0 or greater  
