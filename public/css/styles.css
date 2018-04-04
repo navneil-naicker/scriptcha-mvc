@@ -1,0 +1,20 @@
+#grumpy-cat-placeholder{
+    margin-top: 80px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#grumpy-cat-placeholder img{
+    border: 1px solid #ccc;
+    padding: 3px;
+}
+
+#grumpy-cat-placeholder h3{
+    font-weight: bold;
+}
+
+.btn{
+    border-radius: 0px;
+}
