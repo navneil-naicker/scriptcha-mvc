@@ -25,7 +25,9 @@ All the controller classes will be saved in the director open pattern\controller
 
 Within your *WelcomeController.php* class. We need to create a method called *MyMethod*. Let's open *WelcomeController.php* and the following method.
 
-    public function MyMethod(){}
+    public function MyMethod(){
+        
+    }
 
 ## Model
 
