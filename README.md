@@ -19,7 +19,9 @@ Really it's very straight forward.
 
 All the controller classes will be saved in the director open pattern\controllers. To create a controller class, create a PHP file and name it  _WelcomeController.php_  and save it in pattern\controllers. Now open  _WelcomeController.php_  and write the following class.
 
-    class WelcomeController extends Controller{ }
+    class WelcomeController extends Controller{
+        
+    }
 
 ## Method
 
